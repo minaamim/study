@@ -20,7 +20,6 @@
     - Field member
     - 동기화와 비동기화의 차이
     - block / nonblock
-    - 동기화(Synchronized)
     - Volatile
     - ThreadLocal
         - Personal Recommendation
