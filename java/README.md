@@ -5,7 +5,7 @@
 - 접근 제어자 종류와 특징
 - Wrapper class
 - 인터페이스와 추상 클래스의 차이
-- fianl keyword
+- final keyword
 - Overriding vs Overloading
 - static vs nonstatic
 - main method가 static인 이유
