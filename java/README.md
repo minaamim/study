@@ -26,15 +26,4 @@
 
 ---
 
-- Collection
-- Annotation
-- Generic
-    - c++의 템플릿과의 차이
-- 직렬화와 역직렬화
-- Call by Reference와 Call by Value의 차이
-- String, StringBuilder, StringBuffer
-- checked exception, unchecked exception
-- ==와 equals()의 차이
-- 리플렉션
-- Stream
-- Lambda
+
